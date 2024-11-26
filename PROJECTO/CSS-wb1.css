@@ -1,0 +1,46 @@
+body {
+  background-color: #ddcbcb;
+}
+
+h1 {
+  color: #875B48;
+  text-align: center;
+  font-size: 70px;
+  font-family: "Quicksand", sans-serif;
+}
+
+h2 {
+  color: #875B48;
+  text-align: center;
+  font-size: 60px;
+ font-family: "Quicksand", sans-serif;
+}
+
+
+h3 {
+  color: #374291;
+  font-size: 50px;
+  text-align: center;
+ font-family: "Quicksand", sans-serif;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+  text-align: justify;
+  font-size: 30px;
+  color: black;
+}
+
+
+.Mi-imagen {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.Mi-imagen-nueva {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
